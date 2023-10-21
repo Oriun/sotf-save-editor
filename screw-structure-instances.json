@@ -1,0 +1,1608 @@
+{
+  "_structures": [
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1018.02838,
+        "y": 244.500015,
+        "z": -612.385
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 31,
+      "Pos": {
+        "x": 1018.70538,
+        "y": 244.500015,
+        "z": -615.314453
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 393,
+              "TotalCount": 17,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1016.08258,
+        "y": 244.500015,
+        "z": -615.087
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1014.875,
+        "y": 244.500015,
+        "z": -615.167358
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1014.87225,
+        "y": 244.500015,
+        "z": -615.9686
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1014.96472,
+        "y": 244.500015,
+        "z": -617.5968
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1014.93628,
+        "y": 244.500015,
+        "z": -616.8128
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1010.14874,
+        "y": 244.500015,
+        "z": -612.3521
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1012.11987,
+        "y": 244.500015,
+        "z": -612.305542
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1014.0448,
+        "y": 244.500015,
+        "z": -612.329651
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1015.9834,
+        "y": 244.500015,
+        "z": -612.336731
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1016.00049,
+        "y": 244.500015,
+        "z": -610.7573
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1014.06451,
+        "y": 244.500015,
+        "z": -610.7962
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1012.1297,
+        "y": 244.500015,
+        "z": -610.7969
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1010.15308,
+        "y": 244.500015,
+        "z": -610.846863
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1010.12341,
+        "y": 244.500015,
+        "z": -609.326233
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1014.05951,
+        "y": 244.500015,
+        "z": -609.283264
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1012.13568,
+        "y": 244.500015,
+        "z": -607.8055
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1010.13165,
+        "y": 244.500015,
+        "z": -607.8375
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1010.13776,
+        "y": 244.500015,
+        "z": -606.308167
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1012.1701,
+        "y": 244.500015,
+        "z": -606.302734
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1014.17871,
+        "y": 244.500015,
+        "z": -606.306
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1014.13416,
+        "y": 244.500015,
+        "z": -607.8137
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1012.12604,
+        "y": 244.500015,
+        "z": -609.3121
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1016.11749,
+        "y": 244.500015,
+        "z": -607.8949
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1016.19794,
+        "y": 244.500015,
+        "z": -606.3341
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1018.06274,
+        "y": 244.500015,
+        "z": -610.8073
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1018.08728,
+        "y": 244.500015,
+        "z": -609.2941
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1016.09137,
+        "y": 244.500015,
+        "z": -609.3087
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1018.0907,
+        "y": 244.500015,
+        "z": -607.9217
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Pos": {
+        "x": 1018.21161,
+        "y": 244.500015,
+        "z": -606.347656
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 640,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1015.07227,
+        "y": 244.500015,
+        "z": -619.4137
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1014.95233,
+        "y": 244.500015,
+        "z": -618.46875
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1015.15833,
+        "y": 244.500015,
+        "z": -620.286
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1015.35168,
+        "y": 244.500015,
+        "z": -621.307739
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1016.45728,
+        "y": 244.500015,
+        "z": -622.1804
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1015.44727,
+        "y": 244.500015,
+        "z": -622.279663
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1015.46118,
+        "y": 244.500015,
+        "z": -623.1853
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Pos": {
+        "x": 1012.1861,
+        "y": 244.500015,
+        "z": -622.5418
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 78,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Pos": {
+        "x": 1012.29291,
+        "y": 244.500015,
+        "z": -619.5026
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 78,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Pos": {
+        "x": 1009.83429,
+        "y": 244.500015,
+        "z": -622.6341
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 78,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Pos": {
+        "x": 1009.87463,
+        "y": 244.500015,
+        "z": -619.633
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 78,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Pos": {
+        "x": 1009.9007,
+        "y": 244.500015,
+        "z": -616.779053
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 78,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1024.2793,
+        "y": 244.900238,
+        "z": -617.16925
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1024.26636,
+        "y": 244.900238,
+        "z": -615.611938
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1025.35657,
+        "y": 244.900238,
+        "z": -615.6637
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1026.34021,
+        "y": 244.900238,
+        "z": -615.6779
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1027.25928,
+        "y": 244.900238,
+        "z": -615.6955
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 55,
+      "Pos": {
+        "x": 1069.40967,
+        "y": 249.582611,
+        "z": -606.9297
+      },
+      "Rot": {
+        "w": 0.7345262,
+        "y": 0.678571641,
+        "z": -0.00233159564,
+        "x": 0.0025238574
+      },
+      "Storages": []
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1028.15967,
+        "y": 244.900238,
+        "z": -615.750366
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1029.08,
+        "y": 244.900238,
+        "z": -615.73584
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1029.936,
+        "y": 244.900238,
+        "z": -615.815063
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1030.82043,
+        "y": 244.900238,
+        "z": -615.8471
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1031.89087,
+        "y": 244.900238,
+        "z": -615.9013
+      },
+      "Rot": {
+        "w": 0.0256205928,
+        "y": -0.999671757
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1025.4054,
+        "y": 244.900238,
+        "z": -617.181763
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1026.323,
+        "y": 244.900238,
+        "z": -617.1419
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1027.29944,
+        "y": 244.900238,
+        "z": -617.1033
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1028.25317,
+        "y": 244.900238,
+        "z": -617.0653
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1029.19873,
+        "y": 244.900238,
+        "z": -617.0187
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1030.13184,
+        "y": 244.900238,
+        "z": -617.020264
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1030.99707,
+        "y": 244.900238,
+        "z": -617.0001
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Pos": {
+        "x": 1031.8457,
+        "y": 244.900238,
+        "z": -617.005737
+      },
+      "Rot": {
+        "w": -0.999910057,
+        "y": 0.0134114455
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 392,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Pos": {
+        "x": 1027.20093,
+        "y": 244.900238,
+        "z": -611.8857
+      },
+      "Rot": {
+        "w": 0.05802566,
+        "y": 0.9983151
+      },
+      "Storages": []
+    },
+    {
+      "Id": 49,
+      "Pos": {
+        "x": 1026.00537,
+        "y": 244.900253,
+        "z": -611.3536
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 381,
+              "TotalCount": 5,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 381,
+              "TotalCount": 5,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 417,
+              "TotalCount": 2,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 420,
+              "TotalCount": 3,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 417,
+              "TotalCount": 3,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 381,
+              "TotalCount": 5,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 527,
+              "TotalCount": 6,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 527,
+              "TotalCount": 3,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 420,
+              "TotalCount": 3,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 381,
+              "TotalCount": 5,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 420,
+              "TotalCount": 3,
+              "UniqueItems": []
+            }
+          ]
+        },
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 420,
+              "TotalCount": 1,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Pos": {
+        "x": 1005,
+        "y": 244.500015,
+        "z": -623
+      },
+      "Rot": {
+        "w": 1
+      },
+      "Storages": [
+        {
+          "Version": "0.0.0",
+          "ItemBlocks": [
+            {
+              "ItemId": 78,
+              "TotalCount": 999,
+              "UniqueItems": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

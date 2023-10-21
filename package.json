@@ -1,0 +1,27 @@
+{
+  "name": "SonOfTheForestIpagXtrem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/archiver": "^5.3.4",
+    "@types/deep-equal": "^1.0.3",
+    "@types/node": "^20.8.7",
+    "@types/unzipper": "^0.10.8",
+    "deep-equal": "^2.2.2",
+    "typescript": "^5.2.2",
+    "unzipper": "^0.10.14"
+  },
+  "dependencies": {
+    "archiver": "^6.0.1",
+    "playwright": "^1.39.0",
+    "zlib": "^1.0.5",
+    "zod": "^3.22.4"
+  }
+}

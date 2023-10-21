@@ -1,0 +1,6 @@
+{
+  "Version": "0.0.0",
+  "Data": {
+    "PlayerInventory": "{\"Version\":\"0.0.0\",\"QuickSelect\":{\"Version\":\"0.0.0\",\"Slots\":[{\"ItemId\":379,\"Age\":2669.02124},{},{},{},{\"ItemId\":441,\"Age\":2712.02563},{\"ItemId\":439,\"Age\":2744.67334},{\"ItemId\":437,\"Age\":2760.049},{},{\"ItemId\":589,\"Age\":2621.27246}]},\"EquippedItems\":[{\"ItemId\":504,\"Modules\":[]}],\"ItemInstanceManagerData\":{\"Version\":\"0.0.0\",\"ItemBlocks\":[{\"ItemId\":402,\"TotalCount\":1,\"UniqueItems\":[{\"Modules\":[{\"Version\":\"0.0.0\"}]}]},{\"ItemId\":380,\"TotalCount\":1,\"UniqueItems\":[{\"Modules\":[{\"Version\":\"0.0.0\"}]}]},{\"ItemId\":351,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":552,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":486,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":412,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":379,\"TotalCount\":1,\"UniqueItems\":[{\"Modules\":[{\"Version\":\"0.0.0\"},{\"Version\":\"0.0.0\",\"ModuleId\":8}]}]},{\"ItemId\":589,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":413,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":441,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":419,\"TotalCount\":2,\"UniqueItems\":[]},{\"ItemId\":439,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":416,\"TotalCount\":1,\"UniqueItems\":[]},{\"ItemId\":437,\"TotalCount\":1,\"UniqueItems\":[]}]}}"
+  }
+}
